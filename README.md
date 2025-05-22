@@ -1,7 +1,7 @@
 
 # 🍽️ Restaurant Recommendation System
 
-This project builds a restaurant recommendation system using machine learning and data analysis techniques. The system provides personalized restaurant suggestions based on user preferences such as location, cuisines, ratings, and more.
+This project builds a restaurant recommendation system using PySpark and data analysis techniques. The system provides personalized restaurant suggestions based on user preferences such as location, cuisines, ratings, and more.
 
 ## 📘 Project Overview
 
